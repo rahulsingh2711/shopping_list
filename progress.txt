@@ -1,0 +1,16 @@
+YT = 4 | ✔
+
+project=>
+
+BACKEND:
+db connection  ✔
+db schema      ✔
+db routes      ✔
+
+FRONTEND:
+
+AppNavbar     ✔
+itemList      ✔
+
+
+need to see that video again
